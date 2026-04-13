@@ -170,4 +170,4 @@ button:hover { opacity: 0.85; }
 #ex15 .bloco small { font-size: 11px; color: #555; display: block; margin-top: 4px; text-transform: uppercase; letter-spacing: 1px; }
 #ex15 .presale { margin-bottom: 10px; color: #888; font-size: 14px; }
 #ex15 input[type=email] { padding: 10px 14px; width: 220px; border: 1px solid #2a2a5a; background: #10102e; color: #ddd; font-size: 14px; border-radius: 6px 0 0 6px; font-family: inherit; }
-#ex15 button { background: #5a2dff; color: white; border: none; padding: 10px 18px; border-radius: 0 6px 6px 0; font-size: 14px; font-weight: 500; }
+#ex15 button {background: #5a2dff; color: white; border: none; padding: 10px 18px; border-radius: 0 6px 6px 0; font-size: 14px; font-weight: 500; }
